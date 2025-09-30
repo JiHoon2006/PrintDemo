@@ -1,10 +1,10 @@
 # 변수 선언
-name = "Alice"
-age = 25
+name = "Ji Hoon Jeon"
+age = 20
 score = 95.5
 
 # 1. 기본 출력
-print("Hello, Python!")
+print("Hellow, Python!")
 
 # 2. 여러 값 출력 (콤마로 구분 → 자동 띄어쓰기)
 print("Name:", name, "Age:", age, "Score:", score)
