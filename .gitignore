@@ -1,0 +1,7 @@
+#파일
+main_print_v1.ipnyb
+*.avi
+
+#폴더
+venv/
+.vscode/
